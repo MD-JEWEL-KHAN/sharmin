@@ -113,13 +113,13 @@ http://www.youtube.com
 
 ## Image syntex
 
-![profile](./images/image5.jpg)
+<!-- ![profile](./img/b.jpeg) -->
 ❤️
 ❤️
 ❤️
 ❤️
 
-<img src="./images/image4.jpg" height="400"  width= "300">
+<img src="./img/b.jpeg" height="400"  width= "300">
 
 <br/>
 
