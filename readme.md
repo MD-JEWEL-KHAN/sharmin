@@ -1,7 +1,16 @@
 
 <!-- markdown tutorial -->
-Md Jewel Khan  
-This is second line
+
+## Image syntex
+
+<!-- ![profile](./img/b.jpeg) -->
+❤️
+❤️
+❤️
+❤️
+
+<img src="./img/b.jpeg" height="400"  width= "300">
+
 
 ---
 
@@ -111,15 +120,7 @@ http://www.youtube.com
 [facebooklink]: http://www.facebook.com            
 
 
-## Image syntex
 
-<!-- ![profile](./img/b.jpeg) -->
-❤️
-❤️
-❤️
-❤️
-
-<img src="./img/b.jpeg" height="400"  width= "300">
 
 <br/>
 
